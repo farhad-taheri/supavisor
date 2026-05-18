@@ -1,27 +1,6 @@
-![Supavisor](/docs/images/supavisor-banner.png)
-<h2>Product UI Exploration</h2>
-
-<p>
-Unofficial concept project focused on modern UI patterns,
-motion, and product experience design.
+<p align="center">
+  <img src="./logo.svg" width="80" />
 </p>
-
-<p>
-Built for learning, experimentation, and portfolio showcase.
-</p>
-
-<hr/>
-
-<h3>Stack</h3>
-
-<ul>
-  <li>Figma</li>
-  <li>React</li>
-  <li>Tailwind CSS</li>
-  <li>Motion</li>
-</ul>
-
-<h3>Preview</h3>
 
 <img src="./preview.png" width="100%" />
 
