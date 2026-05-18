@@ -1,4 +1,6 @@
 ![Supavisor](/docs/images/supavisor-banner.png)
+This is an unofficial UI exploration created for educational and portfolio purposes.
+Concept redesign inspired by modern developer tools.
 
 # Supavisor - Postgres connection pooler
 
