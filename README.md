@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="./supabase-logo.png" width="80" />
+  <img src="./supabase-logo.png" width="90" />
 </p>
 
-<h1 align="center">Supabase UI Exploration</h1>
+<h2 align="center">UI Exploration</h2>
 
 <p align="center">
-A concept redesign focused on modern dashboard UX, motion, and product clarity.
+Unofficial product UI concept inspired by modern developer tools.
 </p>
-
-<hr/>
-
-<h3>Disclaimer</h3>
-
-This is an unofficial design exploration created for learning and portfolio purposes only.
 
 # Supavisor - Postgres connection pooler
 
