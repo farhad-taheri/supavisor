@@ -1,6 +1,29 @@
 ![Supavisor](/docs/images/supavisor-banner.png)
-This is an unofficial UI exploration created for educational and portfolio purposes.
-Concept redesign inspired by modern developer tools.
+<h2>Product UI Exploration</h2>
+
+<p>
+Unofficial concept project focused on modern UI patterns,
+motion, and product experience design.
+</p>
+
+<p>
+Built for learning, experimentation, and portfolio showcase.
+</p>
+
+<hr/>
+
+<h3>Stack</h3>
+
+<ul>
+  <li>Figma</li>
+  <li>React</li>
+  <li>Tailwind CSS</li>
+  <li>Motion</li>
+</ul>
+
+<h3>Preview</h3>
+
+<img src="./preview.png" width="100%" />
 
 # Supavisor - Postgres connection pooler
 
