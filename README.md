@@ -194,7 +194,7 @@ tps = 189.228103 (without initial connection time)
 
 <img alt="load-test-vus.png" data-hpc="true" src="https://github.com/supabase/supavisor/blob/main/docs/images/load-test-vus.png?raw=true" style="max-width: 100%;">
 
-![Supavisor load test qps chart](./docs/images/load-test-qps.png)
+<img alt="load-test-qps.png" data-hpc="true" src="https://github.com/supabase/supavisor/blob/main/docs/images/load-test-qps.png?raw=true" style="max-width: 100%;">
 
 - Supavisor two node cluster
   - 64vCPU / 246RAM
