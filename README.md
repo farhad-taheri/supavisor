@@ -1,5 +1,5 @@
 <p align="center">
-  <img "Supabase Logo PNG Vector (SVG) Free Download" />
+  <img <img alt="Supabase Jobs" referrerpolicy="no-referrer" class="max-h-full max-w-full object-contain" src="https://images.openai.com/static-rsc-4/tTRMidgq78vYAy4QTIV5vD_uDh9HfWogWy4yMwPRxRzb0p9U2wOUwJdNis0UKEgf6TDMI1_gl2lP90Ho127hoH_NwqyXX_aI0Yqiox8X47Z446sUr6Ij5jAGAbjysLhqzRuvi80YWMC4j5PDOqmd39yyCrmXL3hYwYeIWzLqQruXZlqMZy7eaOYz-h0Dqq3v?purpose=fullsize" style="background-image: url(&quot;https://images.openai.com/static-rsc-4/zhf_N0AB78HRbSFrU03Ky-o2brPLDxUaK1uz6CfC3Biv6hjfC6qu00qygGoxJoG0Ldew6Z4fov3VVfRj27YkBdLV4KCxdKvxYxXOZYz9bPTcGU8hE3iOHWJR_3SxhuMGgUeHP84VMP3eg6Smy67u-vmOG8LzecRvQqTEMmFPo1c?purpose=inline&quot;); background-size: contain; aspect-ratio: 5.17149 / 1; background-position: center center; background-repeat: no-repeat; opacity: 1;"> />
 </p>
 
 <h2 align="center">UI Exploration</h2>
