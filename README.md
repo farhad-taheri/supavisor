@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Supabase Logo PNG Vector (SVG) Free Download" />
+  <img "Supabase Logo PNG Vector (SVG) Free Download" />
 </p>
 
 <h2 align="center">UI Exploration</h2>
